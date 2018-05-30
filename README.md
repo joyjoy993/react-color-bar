@@ -83,7 +83,7 @@ export default App;
 
 ## Data property
 | Name                 | Type      | Description                                  |
-|----------------------|-----------|-------------------|----------------------------------------------|
+|----------------------|-----------|----------------------------------------------|
 | value                 | Number      | Value displayed in bar                                 |
 | color                 | String      | Color in bar                                  |
 | legendLabel                 | node      | Legend label                                  |
