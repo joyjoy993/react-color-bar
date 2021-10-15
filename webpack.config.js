@@ -29,8 +29,10 @@ module.exports = {
     extensions: [".js", ".jsx"]
   },
   devServer: {
-    contentBase: path.join(__dirname, "demo"),
+    static: {
+      directory: path.join(__dirname, 'demo'),
+    },
+    compress: true,
     port: 8000,
-    stats: "minimal"
   }
 };
