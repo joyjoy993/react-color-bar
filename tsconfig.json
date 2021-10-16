@@ -26,8 +26,7 @@
         "resolveJsonModule": true,
         "sourceMap": true,
         "noImplicitAny": true,
-        "allowJs": false,
+        "allowJs": true,
         "declaration": true,
-        "declarationDir": "lib",
     }
 }
