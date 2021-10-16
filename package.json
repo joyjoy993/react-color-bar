@@ -1,6 +1,6 @@
 {
   "name": "react-color-bar",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "A color bar for displaying data in React.js",
   "main": "lib/index.js",
   "scripts": {
